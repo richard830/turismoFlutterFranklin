@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615619581445",
+    "project_id": "quenetur",
+    "storage_bucket": "quenetur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615619581445:android:983d0e2f53c8d3e048ae6c",
+        "android_client_info": {
+          "package_name": "com.netcritech.apps.quenetur"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9RTvtcn99e6-KuEXtcBeZFy0hWfJ-Aa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
